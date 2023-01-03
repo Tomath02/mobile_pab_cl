@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PAB CL</string>
+    <string name="character">Character</string>
+    <string name="detail">Detail</string>
+    <string name="characters">Characters</string>
+    <string name="vision">Vision</string>
+    <string name="weapon">Weapon</string>
+    <string name="genshin_characters">Genshin Characters</string>
+    <string name="detail_character">Detail Character</string>
+    <string name="profile">Profile</string>
+    <string name="myname">MyName</string>
+    <string name="myemail">MyEmail</string>
+    <string name="e_mail">E-mail</string>
+    <string name="github">Github</string>
+    <string name="university">University</string>
+    <string name="major">Major</string>
+    <string name="mygithub">MyGithub</string>
+    <string name="myuniv">MyUniv</string>
+    <string name="mymajor">MyMajor</string>
+    <string name="tit0_10122010_mhasiswa_unikom_ac_id">tit0.10122010@mhasiswa.unikom.ac.id</string>
+    <string name="tito_10122010_mhasiswa_unikom_ac_id">tito_10122010_mhasiswa_unikom_ac_id</string>
+    <string name="tito_46_10122010_64_mahasiswa_46_unikom_46_ac_46_id">tito.10122010@mahasiswa.unikom.ac.id</string>
+    <string name="https_58_47_47_github_46_com_47_tomath02">https://github.com/Tomath02</string>
+    <string name="unversitas_komputer_indonesia_40_unikom_41">Unversitas Komputer Indonesia (UNIKOM)</string>
+    <string name="tito_muhammad_athoriq">Tito Muhammad Athoriq</string>
+</resources>
